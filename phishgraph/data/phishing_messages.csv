@@ -1,0 +1,9 @@
+message_id,sender_domain,subject,message_text,num_links,suspicious_keywords,domain_risk,sender_known
+MSG001,unknown-bank.com,Urgent Account Verification,"URGENT: Your account will be deleted today. Click here immediately to verify.",1,4,0.85,false
+MSG002,amazon.com,Order Confirmation,"Your order has been shipped successfully. Track your package from your account.",0,0,0.05,true
+MSG003,paypal-security.net,Account Suspended,"Your account has been suspended. Verify your information immediately to restore access.",1,4,0.90,false
+MSG004,university.edu,Assignment Reminder,"Your assignment submission is due tomorrow. Please check the student portal.",0,0,0.05,true
+MSG005,prize-alert.example,You Won a Prize,"Congratulations! You are a winner. Click here now to claim your prize before it expires.",1,4,0.95,false
+MSG006,company.example,Password Expiry Notice,"Your company password will expire soon. Please use the official company portal to change it.",1,2,0.10,true
+MSG007,invoice-fake.example,Payment Failure,"FINAL NOTICE: Your payment failed. Confirm your card details immediately to avoid account suspension.",1,5,0.90,false
+MSG008,newsletter.example,Weekly Newsletter,"Here are this week's technology articles and community updates.",0,0,0.10,true
